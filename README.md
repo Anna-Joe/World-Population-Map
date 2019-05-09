@@ -1,5 +1,6 @@
 # 使用pygal制作世界人口地图项目    
-## 1.从[开放数据源网站](#https://datahub.io)下载最新的世界人口信息。    
+## 1.获取数据。
+- 从[开放数据源网站](https://datahub.io)下载最新的世界人口信息。    
 - 在search框里输入“population”
 - 找到数据源之后下载json格式（linux系统下是右键另存为json）    
 ## 2.数据处理。    
